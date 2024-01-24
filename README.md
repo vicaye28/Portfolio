@@ -1,6 +1,6 @@
 # Portfolio
 Welcome to my portfolio. Here you will find a list of projects I have completed using SQL, Python, and Tableau.
-As a data analyst, I did these projects to showcase many competencies from cleaning to transforming to analysing data.
+As a data analyst, I did these projects to showcase many competencies from cleaning to analysing data.
 
 ## SQL
 The following projects were done on SQL, with one project utilising Tableau. 
